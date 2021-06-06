@@ -1,0 +1,111 @@
+.head
+{
+	background-image: url("coffee-beans.jpg");
+ height: 120px;
+	color: white;
+	text-align: center;
+	margin: 0px;
+}
+.h1
+{
+	color: brown;
+}
+.h2
+{
+	color: brown;
+}
+.ggg
+{
+	padding-right:10px;
+	background-color: brown;
+	height: 70px;
+	color: white;
+	margin: 0px;
+}
+
+.btn{
+	background-color: brown;
+	color: white;
+	border-radius: 2px;
+	height: 30px;
+	width: 80px;
+	margin-top: 5px;
+	text-align: center;
+	cursor: pointer;
+}
+.btn:hover{
+	background-color: orange;
+	color: white;
+}
+
+footer ul a
+{
+	padding-right:10px;
+	height: 60px;
+	color: rgb(245, 117, 66);
+	margin: 0px;
+}
+li
+{
+	 display: inline;
+	 padding-right: 125px;
+	 font-size: 30px;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	background-color: orange;
+}
+p
+{
+	font-size: 30px;
+	color: black;
+}
+k
+{
+	color:brown;
+}
+.p1
+{
+	background-color: pink;
+	float: right;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 60px;
+	padding-top:  60px;
+}
+body
+{
+	padding-left: 60px;
+	padding-right: 30px;
+}
+.a1
+{
+	color: brown
+}
+ro
+{
+	background-color: pink;
+	padding: 60px;
+	padd
+}
+ir
+{
+	float: right;
+	padding-right: 60px;
+	padding-left: 20px;
+	height: 480px;
+	width: 300px;
+}
+ig
+{
+	float: right;
+	padding-right: 78px;
+	padding-left: 10px;
+	height: 700px;
+	width: 400px;
+}
